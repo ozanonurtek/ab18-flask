@@ -1,0 +1,4 @@
+DEBUG = True
+SECRET_KEY = "ozanbeyiyiakşamlar"
+SERVER_NAME = "127.0.0.1:1111"
+TEMPLATES_AUTO_RELOAD = True
